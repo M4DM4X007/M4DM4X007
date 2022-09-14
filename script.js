@@ -5,16 +5,16 @@ window.onload = () => {
 const COMMANDS = {
   help: 'Supported commands: <span class="code">about</span>, <span class="code">experience</span>, <span class="code">education</span>, <span class="code">skills</span>, <span class="code">contact</span>',
   about:
-    "Hello 👋<br>I'm Anandhu K B. I’m a 19 yr old pentester and bug bounty hunter currently living in India.",
+    "Hello 👋<br>I'm Arjun S A. I’m a 21 yr old pentester and bug bounty hunter currently living in India.",
   skills:
     '<span class="code">Skill:</span> Ethical Hacking, Pen-Testing, Bug Hunting,..<br>',
   education:
-    "Christ College Puliyanmala, Idukki, Kerala, India<br> BCA , 1st Year",
+    "UIT Malayinkeezhu, Thiruvananthapuram, Kerala, India<br> BCA , Graduate",
   
-  experience: "No Experience😥",
+  experience: "3 Months",
 
   contact:
-    "You can contact me on any of following links:<br><a href='https://t.me/d4rk4c3' class='success link'>Telegram</a>, <a href='https://www.instagram.com/d4rk.4c3/' class='success link'>Instagram</a>, <a href='https://twitter.com/d4rk_4c3' class='success link'>Twitter</a>",
+    "You can contact me on any of following links:<br><a href='https://t.me/rav3_x' class='success link'>Telegram</a>, <a href='https://www.instagram.com/rav3_x/' class='success link'>Instagram</a>, <a href='https://twitter.com/itz_me_rave' class='success link'>Twitter</a>",
 };
 
 const userInput = document.getElementById("userInput");
