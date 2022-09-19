@@ -11,7 +11,7 @@ const COMMANDS = {
   education:
     "UIT Malayinkeezhu, Thiruvananthapuram, Kerala, India<br> BCA , Graduate",
   
-  experience: "3 Months",
+  experience: "3 Months, Penetration Tester Intern at Virtually Testing Foundation, California",
 
   contact:
     "You can contact me on any of following links:<br><a href='https://t.me/rav3_x' class='success link'>Telegram</a>, <a href='https://www.instagram.com/rav3_x/' class='success link'>Instagram</a>, <a href='https://twitter.com/itz_me_rave' class='success link'>Twitter</a>",
